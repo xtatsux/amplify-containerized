@@ -1,2 +1,2 @@
 # amplify-containerized
-amplify-containerized
+これはamplify-containerizedを試したリポジトリです。
